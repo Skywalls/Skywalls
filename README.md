@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Skywalls
-- 👀 I’m interested in Coding
+- 👋 Hi and Welcome to my GitHub Profile!
 - 🌱 I’m currently learning Java Programming Language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
