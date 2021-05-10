@@ -3,7 +3,7 @@
 ##### I'm currently learning 🇯🇦🇻🇦 programming language.
 #
 ### My 🇸🇹🇦🇹🇸 are here;
-[![Skywalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skywalls)](https://github.com/anuraghazra/github-readme-stats)
+[![Skywalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skywalls)](https://github.com/Skywalls)
 # 🇪🇳🇯🇴🇾
 
 <!---
